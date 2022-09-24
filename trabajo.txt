@@ -13,4 +13,4 @@ monedas en Perú
 -soles
 -dolares
 -euros
-
+-pesos
